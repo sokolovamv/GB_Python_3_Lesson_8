@@ -1,15 +1,96 @@
 {
-    "Directory: /Users/vladislav/Desktop/Masha/GB/Python_3/Lesson_8/ = 8219 bytes": [
-        "FILE: directory_info.csv = 950 bytes",
+    "Directory: /Users/vladislav/Desktop/Masha/GB/Python_3/Lesson_8/ = 8216 bytes": [
+        "FILE: directory_info.csv = 949 bytes",
         "FILE: .DS_Store = 6148 bytes",
-        "FILE: pickle_file.bin = 522 bytes",
-        "FILE: directory_info.json = 599 bytes"
+        "FILE: pickle_file.bin = 521 bytes",
+        "FILE: directory_info.json = 598 bytes"
     ],
-    "Directory: /Users/vladislav/Desktop/Masha/GB/Python_3/Lesson_8/Homework_8 = 2518 bytes": [
-        "FILE: task_1.py = 2518 bytes"
+    "Directory: /Users/vladislav/Desktop/Masha/GB/Python_3/Lesson_8/Homework_8 = 2517 bytes": [
+        "FILE: task_1.py = 2517 bytes"
     ],
     "Directory: /Users/vladislav/Desktop/Masha/GB/Python_3/Lesson_8/Seminar_8 = 2547 bytes": [
         "FILE: task_1.py = 943 bytes",
         "FILE: task_2.py = 1604 bytes"
+    ],
+    "Directory: /Users/vladislav/Desktop/Masha/GB/Python_3/Lesson_8/.git = 1147 bytes": [
+        "FILE: config = 320 bytes",
+        "FILE: HEAD = 21 bytes",
+        "FILE: description = 73 bytes",
+        "FILE: index = 726 bytes",
+        "FILE: COMMIT_EDITMSG = 7 bytes"
+    ],
+    "Directory: /Users/vladislav/Desktop/Masha/GB/Python_3/Lesson_8/.git/objects = 0 bytes": [],
+    "Directory: /Users/vladislav/Desktop/Masha/GB/Python_3/Lesson_8/.git/objects/df = 54 bytes": [
+        "FILE: dbcdcb0ae3a9e7cfdd8cdabbf521bfd8dc2ee3 = 54 bytes"
+    ],
+    "Directory: /Users/vladislav/Desktop/Masha/GB/Python_3/Lesson_8/.git/objects/e3 = 124 bytes": [
+        "FILE: acc143de84b3880362074c2570cdde25c44a01 = 124 bytes"
+    ],
+    "Directory: /Users/vladislav/Desktop/Masha/GB/Python_3/Lesson_8/.git/objects/4e = 1042 bytes": [
+        "FILE: 1079ccfd440c88e6c9606c0d2ee76eb448d31c = 1042 bytes"
+    ],
+    "Directory: /Users/vladislav/Desktop/Masha/GB/Python_3/Lesson_8/.git/objects/pack = 0 bytes": [],
+    "Directory: /Users/vladislav/Desktop/Masha/GB/Python_3/Lesson_8/.git/objects/38 = 80 bytes": [
+        "FILE: d275d6c62b38ed799f1e60f77d1ba484107caa = 80 bytes"
+    ],
+    "Directory: /Users/vladislav/Desktop/Masha/GB/Python_3/Lesson_8/.git/objects/9a = 286 bytes": [
+        "FILE: 242ae42d64d5fcd9d8641ef0c70dc7f7960db4 = 286 bytes"
+    ],
+    "Directory: /Users/vladislav/Desktop/Masha/GB/Python_3/Lesson_8/.git/objects/info = 0 bytes": [],
+    "Directory: /Users/vladislav/Desktop/Masha/GB/Python_3/Lesson_8/.git/objects/99 = 778 bytes": [
+        "FILE: ce744071ad783ff9fe3337a7c99723fad28683 = 778 bytes"
+    ],
+    "Directory: /Users/vladislav/Desktop/Masha/GB/Python_3/Lesson_8/.git/objects/d3 = 252 bytes": [
+        "FILE: ef7488786152246d87ef04ffe560bb6aa1eb03 = 252 bytes"
+    ],
+    "Directory: /Users/vladislav/Desktop/Masha/GB/Python_3/Lesson_8/.git/objects/af = 233 bytes": [
+        "FILE: 753d1f9df47174455cdbf31abd3c4b33ff83d7 = 233 bytes"
+    ],
+    "Directory: /Users/vladislav/Desktop/Masha/GB/Python_3/Lesson_8/.git/objects/f0 = 271 bytes": [
+        "FILE: c7b5f61adb5da3afa95e4b8b63a7e76adc3bcd = 271 bytes"
+    ],
+    "Directory: /Users/vladislav/Desktop/Masha/GB/Python_3/Lesson_8/.git/objects/12 = 562 bytes": [
+        "FILE: 07a49b38c0570930161dd942a331326cc3e9fb = 562 bytes"
+    ],
+    "Directory: /Users/vladislav/Desktop/Masha/GB/Python_3/Lesson_8/.git/objects/2b = 335 bytes": [
+        "FILE: 735a443b051798010ec5dde347b85e325703b6 = 335 bytes"
+    ],
+    "Directory: /Users/vladislav/Desktop/Masha/GB/Python_3/Lesson_8/.git/info = 240 bytes": [
+        "FILE: exclude = 240 bytes"
+    ],
+    "Directory: /Users/vladislav/Desktop/Masha/GB/Python_3/Lesson_8/.git/logs = 505 bytes": [
+        "FILE: HEAD = 505 bytes"
+    ],
+    "Directory: /Users/vladislav/Desktop/Masha/GB/Python_3/Lesson_8/.git/logs/refs = 0 bytes": [],
+    "Directory: /Users/vladislav/Desktop/Masha/GB/Python_3/Lesson_8/.git/logs/refs/heads = 328 bytes": [
+        "FILE: main = 328 bytes"
+    ],
+    "Directory: /Users/vladislav/Desktop/Masha/GB/Python_3/Lesson_8/.git/logs/refs/remotes = 0 bytes": [],
+    "Directory: /Users/vladislav/Desktop/Masha/GB/Python_3/Lesson_8/.git/logs/refs/remotes/origin = 141 bytes": [
+        "FILE: main = 141 bytes"
+    ],
+    "Directory: /Users/vladislav/Desktop/Masha/GB/Python_3/Lesson_8/.git/hooks = 23513 bytes": [
+        "FILE: commit-msg.sample = 896 bytes",
+        "FILE: pre-rebase.sample = 4898 bytes",
+        "FILE: pre-commit.sample = 1643 bytes",
+        "FILE: applypatch-msg.sample = 478 bytes",
+        "FILE: fsmonitor-watchman.sample = 4726 bytes",
+        "FILE: pre-receive.sample = 544 bytes",
+        "FILE: prepare-commit-msg.sample = 1492 bytes",
+        "FILE: post-update.sample = 189 bytes",
+        "FILE: pre-merge-commit.sample = 416 bytes",
+        "FILE: pre-applypatch.sample = 424 bytes",
+        "FILE: pre-push.sample = 1374 bytes",
+        "FILE: update.sample = 3650 bytes",
+        "FILE: push-to-checkout.sample = 2783 bytes"
+    ],
+    "Directory: /Users/vladislav/Desktop/Masha/GB/Python_3/Lesson_8/.git/refs = 0 bytes": [],
+    "Directory: /Users/vladislav/Desktop/Masha/GB/Python_3/Lesson_8/.git/refs/heads = 41 bytes": [
+        "FILE: main = 41 bytes"
+    ],
+    "Directory: /Users/vladislav/Desktop/Masha/GB/Python_3/Lesson_8/.git/refs/tags = 0 bytes": [],
+    "Directory: /Users/vladislav/Desktop/Masha/GB/Python_3/Lesson_8/.git/refs/remotes = 0 bytes": [],
+    "Directory: /Users/vladislav/Desktop/Masha/GB/Python_3/Lesson_8/.git/refs/remotes/origin = 41 bytes": [
+        "FILE: main = 41 bytes"
     ]
 }
